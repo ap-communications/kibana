@@ -14,6 +14,7 @@ trash
 /optimize
 /built_assets
 target
+!/target/*amd64.deb
 /build
 .jruby
 .idea
